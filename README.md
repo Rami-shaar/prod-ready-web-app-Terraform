@@ -54,4 +54,4 @@ terraform apply
 
 ---
 
-**Author:** [Your Name]
+**Author:** [Rami Alshaar]
