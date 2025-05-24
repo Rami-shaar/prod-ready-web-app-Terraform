@@ -1,0 +1,8 @@
+# Terraform
+*.tfstate
+*.tfstate.backup
+.terraform/
+.terraform.lock.hcl
+
+# VS Code or other IDE folders
+.vscode/
