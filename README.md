@@ -54,6 +54,8 @@ terraform apply
 
 ---
 
-👤 Author
-Rami Alshaar
-https://github.com/Rami-shaar
+## 👤 Author
+
+**Rami Alshaar**  
+[GitHub Profile](https://github.com/Rami-shaar)
+
